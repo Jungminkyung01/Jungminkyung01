@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <br/>
  <br/>
  
-## 🔨 Once I've used 🔨
+### 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## 💻 DEV's log 💻
+### 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
 
 <a href="#">
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=the-moa&theme=default)](https://the-moa.tistory.com/)
 
-</div><br>
+</div>
  
    <br/>
    <br/>
