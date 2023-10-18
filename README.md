@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 ####  :wave: Welcome my github profile !
 --> 
 <div align="center"> 
+<br/>
+
+[![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungminkyung01&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/Jungminkyung01/github-readme-stats)
+
+
  <br/>
  <br/>
-  
-####  :clipboard: Once I've Used 
-  
- <br/>
-  
+ 
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -37,17 +40,27 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"><br>
+</div>
+<br/>
+<br/>
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
+</a>
+<a href="https://the-moa.tistory.com/">
+     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+</a>
+ 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=the-moa&theme=default)](https://the-moa.tistory.com/)
+
+</div><br>
  
    <br/>
    <br/>
- 
-#### :🤍 MinKung Jung 🤍
-  <br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://the-moa.tistory.com/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
    <br/>
  
 </div>
