@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
- ## 💻 DEV's log 💻
+ ## 💻 MinKung Jung 💻
 <div style="display:flex; flex-direction:row;">
  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
