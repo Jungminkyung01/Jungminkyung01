@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+my+GitHub!👋)](https://git.io/typing-svg)
-<!--
-####  :wave: Welcome my github profile !
---> 
+ 
 <div align="center"> 
 <br/>
 
 [![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungminkyung01&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/Jungminkyung01/github-readme-stats)
-
 
  <br/>
  <br/>
@@ -32,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=white">
 -->
 
-### 🔨 Once I've used 🔨
+ ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -53,10 +50,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 💻 DEV's log 💻
+ ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-
-<a href="#">
+ <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
 </a>
 <a href="https://the-moa.tistory.com/">
@@ -64,9 +60,9 @@ Here are some ideas to get you started:
 </a>
  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=the-moa&theme=default)](https://the-moa.tistory.com/)
-
-</div>
  
+</div>
+
    <br/>
    <br/>
    <br/>
